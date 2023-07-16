@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../.vscode"
+		},
+		{
+			"path": "../../../Desktop/datastructure code"
+		},
+		{
+			"path": "../../../Desktop/java"
+		},
+		{
+			"path": "../../../Desktop/python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
